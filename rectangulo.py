@@ -12,5 +12,4 @@ class Rectangulo:
         self.recta_1 = recta_1
         self.recta_2 = recta_2
         pass
-            
-        
+                
